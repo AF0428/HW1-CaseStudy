@@ -1,2 +1,1 @@
-# HW1-CaseStudy
-First HW Assignment
+# Klarna Case Study
